@@ -1,4 +1,4 @@
 *.dat
-result/
+result/*
 !result/b.out
 
